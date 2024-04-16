@@ -36,9 +36,6 @@ root->right = right_child;
 
 ### Part 4: Collaborators and Additional Information
 #```markdown
-## Collaborators
-
-- **Mico Bledsoe** - GitHub: [@MicoBledsoe](https://github.com/MicoBledsoe)
 
 ## Additional Information
 
@@ -49,3 +46,8 @@ This project also includes a comprehensive suite of tests to ensure each functio
 Code files are compiled this way:
 #```bash
 gcc -Wall -Werror -Wextra -pedantic *.c -o binary_trees
+
+## Collaborators
+
+- **Mico Bledsoe** - [GitHub Profile](https://github.com/MicoBledsoe)
+- **Ricardo Corona** - [GitHub Profile](https://github.com/LW068)
